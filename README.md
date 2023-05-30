@@ -1,2 +1,2 @@
 # Hello-World
-Opening my github account with Hello World.
+Exploring Github to build my profile.
